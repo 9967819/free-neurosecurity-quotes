@@ -1,5 +1,5 @@
 # free-neurosecurity-quotes
-A curated list of greatest quotes on free neurosecurity ! 
+A curated list of the best quotes on free neurosecurity ! 
 
 Maintainer: Etienne Robillard 
 
