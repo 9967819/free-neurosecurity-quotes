@@ -1,7 +1,7 @@
 # free-neurosecurity-quotes
 A curated list of greatest quotes on free neurosecurity ! 
 
-Maintainer: Etienne Robillard <smart@open-neurosecurity.org> 
+Maintainer: Etienne Robillard 
 
 License: GPL 
 
