@@ -1,8 +1,11 @@
 # free-neurosecurity-quotes
-Curated list of greatest quotes on free neurosecurity ! 
+A curated list of greatest quotes on free neurosecurity ! 
+Maintainer: 
+Etienne Robillard <smart@open-neurosecurity.org> 
+License: GPL 
 
-Original thread: https://forums.rockylinux.org/t/famous-free-neurosecurity-quotes/10118
+The original post is here : https://forums.rockylinux.org/t/famous-free-neurosecurity-quotes/10118
 
-Positive feedback is welcome as always. :-) 
+Your positive input is welcome as always. :-) 
 
 smart 
