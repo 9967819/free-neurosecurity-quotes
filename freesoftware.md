@@ -1,0 +1,1 @@
+1. In the 70s, computer users lost the freedoms to redistribute and change software because they didn't value their freedom. Computer users regained these freedoms in the 80s and 90s because a group of idealists, the GNU Project, believed that freedom is what makes a program better, and were willing to work for what we believed in. (Richard M. Stallman)
