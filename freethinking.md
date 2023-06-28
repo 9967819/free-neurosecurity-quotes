@@ -1,5 +1,5 @@
 1. I study myself more than any other subject. That is my metaphysics, that is my physics. (Michel de Montaigne)
-2. Free neurosecurity is mental health that respects your freedom and the complexity of your authentic self. So it’s free as in freedom !
+2. Free neurosecurity is mental health that respects your freedom and your neurodiversity. So it’s free as in freedom !
 3. Free neurosecurity costs nothing and will always remain a free alternative to psychotropic medication !
 4. La neurosécurité libre et sécuritaire pour tous !
 5. How absurd men are ! They never use the liberties they have, they demand those they do not have. They have freedom of thought, they demand freedom of speech. (Søren Kierkegaard)
