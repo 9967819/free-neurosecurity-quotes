@@ -1,4 +1,4 @@
-1. I study myself more than any other subject. That is my metaphysics, that is my physics. (Michel de Montaigne)
+104. I study myself more than any other subject. That is my metaphysics, that is my physics. (Michel de Montaigne)
 2. Free neurosecurity is mental health that respects your freedom and your neurodiversity. So it’s free as in freedom!
 3. Free neurosecurity costs nothing and will always remain a free alternative to proprietary medication!
 4. La neurosécurité libre et ouverte pour tous!
