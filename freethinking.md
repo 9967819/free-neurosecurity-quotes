@@ -4,7 +4,7 @@
 4. La neurosécurité libre et ouverte pour tous!
 5. How absurd men are ! They never use the liberties they have, they demand those they do not have. They have freedom of thought, they demand freedom of speech. (Søren Kierkegaard)
 6. Avec le chaos vient l’adaptation, l’innovation, le changement et l’espoir. Le chaos est rempli d’espoir car il annonce la renaissance. (Coline Serreau)
-7. Pose ta question, tu seras idiot une seconde. Ne la pose pas, tu seras idiot toute ta vie. (Albert Einstein)
+7. Do the right thing. It will gratify some people and astonish the rest. (Mark Twain)
 8. Loneliness is not solitude. Solitude requires being alone whereas loneliness shows itself most sharply in company with others. In solitude I’m by myself, together with my self, therefore two-in-one, whereas in loneliness I am actually one, deserted by all others. (Hannah Arendt)
 9. I am free, no matter what rules surround me. If I find them tolerable, I tolerate them; if I find them too obnoxious, I break them. I am free because I know that I alone am morally responsible for everything I do. (Robert A. Heinlein)
 10. With free neurosecurity you have freedom!
@@ -18,3 +18,5 @@
 18. Education is what remains after one has forgotten what one has learned in school. (Albert Einstein)
 19. Never let school interfere with your education. (Mark Twain)
 20. Courage is resistance to fear, mastery of fear, not absence of fear. (Mark Twain) 
+
+ 
