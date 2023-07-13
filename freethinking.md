@@ -1,7 +1,4 @@
-104. I study myself more than any other subject. That is my metaphysics, that is my physics. (Michel de Montaigne)
-2. Free neurosecurity is mental health that respects your freedom and your neurodiversity. So it’s free as in freedom!
-3. Free neurosecurity costs nothing and will always remain a free alternative to proprietary medication!
-4. La neurosécurité libre et ouverte pour tous!
+1. I study myself more than any other subject. That is my metaphysics, that is my physics. (Michel de Montaigne)
 5. How absurd men are ! They never use the liberties they have, they demand those they do not have. They have freedom of thought, they demand freedom of speech. (Søren Kierkegaard)
 6. Avec le chaos vient l’adaptation, l’innovation, le changement et l’espoir. Le chaos est rempli d’espoir car il annonce la renaissance. (Coline Serreau)
 7. Do the right thing. It will gratify some people and astonish the rest. (Mark Twain)
@@ -18,5 +15,6 @@
 18. Education is what remains after one has forgotten what one has learned in school. (Albert Einstein)
 19. Never let school interfere with your education. (Mark Twain)
 20. Courage is resistance to fear, mastery of fear, not absence of fear. (Mark Twain) 
-
+21. All too often we are giving young people cut ﬂowers when we should be teaching them to grow their own plants. (John W. Gardner)
+22. These days we have Smartphones, Smart cars, Smartboards, Smart everything, but consider this: if the technology is getting smarter, does that mean humans are getting dumber? (Rebecca McNutt)
  
