@@ -17,4 +17,4 @@
 20. Courage is resistance to fear, mastery of fear, not absence of fear. (Mark Twain) 
 21. All too often we are giving young people cut ﬂowers when we should be teaching them to grow their own plants. (John W. Gardner)
 22. These days we have Smartphones, Smart cars, Smartboards, Smart everything, but consider this: if the technology is getting smarter, does that mean humans are getting dumber? (Rebecca McNutt)
- 
+23. Never exceed your rights, and they will soon become unlimited. (Jean-Jacques Rousseau) 
