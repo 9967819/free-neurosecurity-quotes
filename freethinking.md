@@ -19,3 +19,5 @@
 22. These days we have Smartphones, Smart cars, Smartboards, Smart everything, but consider this: if the technology is getting smarter, does that mean humans are getting dumber? (Rebecca McNutt)
 23. Never exceed your rights, and they will soon become unlimited. (Jean-Jacques Rousseau)
 24. Don't be too timid and squeamish about your actions. All life is an experiment. The more you experiments you make the better. (Ralph Waldo Emerson)
+25. They must find it difficult...Those who have taken authority as the truth, rather than truth as the authority. (Gerald Massey)
+
