@@ -20,4 +20,7 @@
 23. Never exceed your rights, and they will soon become unlimited. (Jean-Jacques Rousseau)
 24. Don't be too timid and squeamish about your actions. All life is an experiment. The more experiments you make the better. (Ralph Waldo Emerson)
 25. They must find it difficult...Those who have taken authority as the truth, rather than truth as the authority. (Gerald Massey)
-
+26. Too often we hold fast to the cliches of our forebears. We subject all facts to a prefabricated set of interpretations. Too often we enjoy the comfort of opinion without the discomfort of thought. (John F Kennedy)
+27. Love what you do. Do what you love. (Anonymous) 
+28. What I must do is all that concerns me, not what the people think. This rule, equally arduous in actual and intellectual life, may serve for the whole distinction between greatness and meanness. It is the harder, because you will always find those who think they know what is your duty better than you know it. It is easy in the world to live after the world's opinion; it is easy in solitude to live after our own; but the great person is one who in the midst of the crowd keeps with perfect sweetness the independence of solitude. (Ralph Waldo Emerson)
+29. I submit that an individual who breaks a law that conscience tells him is unjust, and who willingly accepts the penalty of imprisonment in order to arouse the conscience of the community over its injustice, is in reality expressing the highest respect for the law. (Martin Luther King Jr.)
