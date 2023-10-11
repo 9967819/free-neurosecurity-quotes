@@ -30,3 +30,4 @@
 34. That men do not learn very much from the lessons of history is the most important of all the lessons that history has to teach. (Aldous Huxley)
 35. Science is a way of thinking much more than it is a body of knowledge. (Carl Sagan)
 36. As a kid, I dreamt of becoming a writer. My most exciting pastime was reading novels; in fact, I would read anything I could find. (Maryam Mirzakhani)
+37. One good thing about music, when it hits you, you feel no pain. (Bob Marley)
