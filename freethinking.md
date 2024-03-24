@@ -1,5 +1,5 @@
 1. I study myself more than any other subject. That is my metaphysics, that is my physics. (Michel de Montaigne)
-5. How absurd men are ! They never use the liberties they have, they demand those they do not have. They have freedom of thought, they demand freedom of speech. (Søren Kierkegaard)
+5. How absurd men are! They never use the liberties they have, they demand those they do not have. They have freedom of thought, they demand freedom of speech. (Søren Kierkegaard)
 6. Avec le chaos vient l’adaptation, l’innovation, le changement et l’espoir. Le chaos est rempli d’espoir car il annonce la renaissance. (Coline Serreau)
 7. Do the right thing. It will gratify some people and astonish the rest. (Mark Twain)
 8. Loneliness is not solitude. Solitude requires being alone whereas loneliness shows itself most sharply in company with others. In solitude I’m by myself, together with my self, therefore two-in-one, whereas in loneliness I am actually one, deserted by all others. (Hannah Arendt)
